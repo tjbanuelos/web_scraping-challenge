@@ -1,4 +1,4 @@
-#This repository contains the following materials
+# This repository contains the following materials
 
 ## File 1
 A jupyter notebook titled "mars_news" that scrapes the website "https://static.bc-edx.com/data/web/mars_news/index.html" 
